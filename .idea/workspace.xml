@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25430a0f-85bd-4bcc-8424-921540a1a3a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11581504262468618.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16101504262321258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21571504251364923.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36821504257621390.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43781504259878409.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/45641504269655145.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/46591504253022711.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/47171504261996590.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/54451504249243863.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/56921504269612940.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/63781504259960223.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/72711504262690105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/73151504263871972.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/82621504254457165.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/84701504264926733.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/86271504259851693.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/92571504269838169.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/95341511874137781.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email.html" beforeDir="false" afterPath="$PROJECT_DIR$/email.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook-circle-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedin-circle-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter-circle-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-circle-white.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1e2DRcUGwmMfduXamGd1ODDJKjV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pyzatiy\PhpstormProjects\untitled16" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pyzatiy\PhpstormProjects\untitled16" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25430a0f-85bd-4bcc-8424-921540a1a3a9" name="Default Changelist" comment="" />
+      <created>1593510786227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593510786227</updated>
+      <workItem from="1593510787462" duration="164000" />
+      <workItem from="1593598116574" duration="1716000" />
+      <workItem from="1593599948229" duration="1796000" />
+      <workItem from="1593601759491" duration="2029000" />
+      <workItem from="1593603802469" duration="1539000" />
+      <workItem from="1593605624258" duration="601000" />
+      <workItem from="1593608739523" duration="2316000" />
+      <workItem from="1593611589285" duration="1149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593612365809">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593612365809" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1593611597071">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593611597071" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1593601270380">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593601270380" />
   </component>
 </project>
